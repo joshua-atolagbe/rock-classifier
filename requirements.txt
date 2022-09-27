@@ -1,5 +1,5 @@
 voila
 fastbook
 ipywidgets
-fastai
+fastai>=2
 path
