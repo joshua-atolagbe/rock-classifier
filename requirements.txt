@@ -2,3 +2,4 @@ voila
 fastbook
 ipywidgets
 fastai
+path
